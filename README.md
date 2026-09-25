@@ -258,4 +258,4 @@ This repository serves as the official landing page for Magicka. The software is
 **Get the most recent version of Magicka today!**
 
 ---
-**Last updated:** 2026-09-25 19:00:02 UTC
+**Last updated:** 2026-09-25 22:02:56 UTC
